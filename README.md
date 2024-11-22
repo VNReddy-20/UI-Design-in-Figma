@@ -2,6 +2,9 @@
 A Simple UI Interface that looks like a music app.
 
 
+FILE LINK :- https://www.figma.com/design/MVoeDYSzbc8BM1RfPIchd8/Spotify?m=auto&t=EyzeIBaNlIyALkDe-1
+
+
 🎵 Music App UI Design Project :-
 
 This repository contains a Figma design file showcasing a conceptual user interface (UI). The design focuses on delivering an intuitive and visually appealing user experience, adhering to modern UI/UX standards.
