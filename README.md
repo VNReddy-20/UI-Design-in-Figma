@@ -1,5 +1,5 @@
 # UI-Design-in-Figma
-A Simple UI Interface that looks like a music app.
+A Simple UI Interface for a music app.
 
 
 FILE LINK :- https://www.figma.com/design/MVoeDYSzbc8BM1RfPIchd8/Spotify?m=auto&t=EyzeIBaNlIyALkDe-1
